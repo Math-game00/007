@@ -16,7 +16,7 @@ class MathGameWithCustomBackground:
         self.bg_color = "#FFAFE0"
 
         # โหลดภาพพื้นหลังสำหรับเกม
-        self.start_bg_image = Image.open("เกม คณิต คิด หรรษา.jpg")  # ภาพเริ่มต้น
+        self.start_bg_image = Image.open("Mathgame2.jpg")  # ภาพเริ่มต้น
        
         self.start_bg_photo = None
         self.game_bg_photo = None
